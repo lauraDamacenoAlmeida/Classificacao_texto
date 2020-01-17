@@ -1,2 +1,2 @@
 # Classificacao_texto
-Este notebook vêm a partir do mue estudo em NLP e classificação
+Este notebook vêm a partir do meus estudos em NLP e classificação
